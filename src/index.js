@@ -16,8 +16,8 @@ const App = () => {
       </MessageContent>
 
       <MessageContent>
-        <div class="ui piled segment">
-          <h4 class="ui header">For your information</h4>
+        <div className="ui piled segment">
+          <h4 className="ui header">For your information</h4>
           <p>
             Te eum doming eirmod, nominati pertinacia argumentum ad his. Ex eam
             alia facete scriptorem, est autem aliquip detraxit at. Usu ocurreret
